@@ -5,7 +5,7 @@
 |-|-|
 |MB001|從Blazor Server專案範本來觀察 Razor 組件 Component|
 |MB002|建立 Blazor Wasm 專案，觀察 Razor Directive 做了甚麼事情?|
-|MB003||
+|MB003|將原生 .NET MAUI 專案轉換成為 .NET MAUI Blazor Hybrid 開發模式|
 |MB004||
 |MB005||
 |MB006||
